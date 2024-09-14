@@ -1,4 +1,4 @@
-## Go Ethereum
+## Storchain
 
 Golang execution layer implementation of the Ethereum protocol.
 
